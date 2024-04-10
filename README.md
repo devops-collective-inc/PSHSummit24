@@ -1,5 +1,5 @@
 # PSHSummit24
-Content from the 2024 PowerShell + DevOps Global Summit
+Content from the 2024 PowerShell + DevOps Global Summit.
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
