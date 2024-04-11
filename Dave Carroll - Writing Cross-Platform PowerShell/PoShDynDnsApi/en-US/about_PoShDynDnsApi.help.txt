@@ -1,0 +1,48 @@
+TOPIC
+    PoShDynDnsApi
+
+SHORT DESCRIPTION
+    PowerShell module used to interact with Dyn Managed DNS REST API.
+
+LONG DESCRIPTION
+    This module interacts with the Dyn Managed DNS REST API.
+
+    With it, you are able to add/update/remove DNS records or HTTP redirect
+    services for your zones managed by Dyn. You can also add or remove your own
+    DNS zone, view/publish/discard pending zone changes made within your
+    session. You can view all zone publish notes. You can also list users within
+    your managed service.
+
+SEE ALSO
+    Add-DynDnsHttpRedirect
+    Add-DynDnsRecord
+    Add-DynDnsZone
+    Connect-DynDnsSession
+    Disconnect-DynDnsSession
+    Get-DynDnsHistory
+    Get-DynDnsHttpRedirect
+    Get-DynDnsJob
+    Get-DynDnsNodeList
+    Get-DynDnsRecord
+    Get-DynDnsSession
+    Get-DynDnsTask
+    Get-DynDnsUser
+    Get-DynDnsZone
+    Get-DynDnsZoneChanges
+    Get-DynDnsZoneNotes
+    Lock-DynDnsZone
+    New-DynDnsRecord
+    Publish-DynDnsZoneChanges
+    Remove-DynDnsHttpRedirect
+    Remove-DynDnsNode
+    Remove-DynDnsRecord
+    Remove-DynDnsZone
+    Send-DynDnsSession
+    Test-DynDnsSession
+    Undo-DynDnsZoneChanges
+    Unlock-DynDnsZone
+    Update-DynDnsRecord
+
+    https://help.dyn.com/understanding-works-api/
+    https://help.dyn.com/rest-resources/
+
