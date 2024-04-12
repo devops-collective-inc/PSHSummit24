@@ -1,0 +1,17 @@
+simple@example.com
+very.common@example.com
+x@example.com
+long.email-address-with-hyphens@and.subdomains.example.com
+user.name+tag+sorting@example.com 
+name/surname@example.com
+admin@example
+example@s.example
+" "@example.org
+"john..doe"@example.org
+mailhost!username@example.org
+"very.(),:;<>[]\".VERY.\"very@\\ \"very\".unusual"@strange.example.com
+user%example.com@example.org
+user-@example.org
+postmaster@[123.123.123.123]
+postmaster@[IPv6:2001:0db8:85a3:0000:0000:8a2e:0370:7334]
+_test@[IPv6:2001:0db8:85a3:0000:0000:8a2e:0370:7334]
