@@ -1,0 +1,1 @@
+Put this beside snmp_exporter.exe, wherever that is on your system

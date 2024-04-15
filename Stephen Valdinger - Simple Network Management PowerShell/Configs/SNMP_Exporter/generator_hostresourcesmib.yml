@@ -1,0 +1,30 @@
+---
+auths:
+  public_v2:
+    version: 1
+    community: public
+
+modules:
+  hrSystem:
+    walk:
+      - hrSystem
+  hrStorage:
+    walk:
+      - hrStorage
+    lookups:
+      - source_indexes: [hrStorageIndex]
+        lookup: hrStorageDescr
+        drop_source_indexes: true
+  hrDevice:
+    walk:
+      - hrDevice
+    overrides:
+      hrPrinterStatus:
+        type: EnumAsStateSet
+  hrSWRun:
+    walk:
+      - hrSWRun
+  hrSWRunPerf:
+    walk:
+      - hrSWRunPerf
+  hrSWInstalled:
