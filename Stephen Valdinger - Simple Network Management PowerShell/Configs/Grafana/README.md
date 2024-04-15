@@ -1,0 +1,1 @@
+Place `defaults.ini` in `C:\Program Files\GrafanaLabs\grafana\conf` when running Grafana on Windows from the MSI installer/choco package.

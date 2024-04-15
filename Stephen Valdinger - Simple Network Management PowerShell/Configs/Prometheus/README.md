@@ -1,0 +1,1 @@
+Place these files beside `prometheus.exe`, wherever that is on your system if using Windows.
